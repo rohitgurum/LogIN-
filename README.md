@@ -15,7 +15,7 @@ Welcome to my github page! I am software engineer interested in many things.
 <br />
 <br />
 
-<img align="right" height="185" alt="GIF" src="https://media.tenor.com/images/1b841115df8c24772cac95398cc07c6a/tenor.gif"/>
+
 
 - 💻
 - ☹☺☻☃☠
